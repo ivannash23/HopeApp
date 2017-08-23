@@ -16,3 +16,4 @@ opentok_api_secret: your_api_secret
  
 # HopeApp
 # HopeApp
+# live-streaming
