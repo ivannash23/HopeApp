@@ -13,3 +13,4 @@ opentok_api_secret: your_api_secret
 - $ heroku create
 - $ git push heroku master
 - $ heroku open
+ 
